@@ -1,0 +1,1 @@
+C:\prjS\_xamarinPrjs\SimpleOverlay\SimpleOverlay\SimpleOverlay.UWP\SimpleOverlay.UWP.csproj;x86

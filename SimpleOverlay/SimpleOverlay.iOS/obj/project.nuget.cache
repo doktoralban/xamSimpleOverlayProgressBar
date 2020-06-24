@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+ztYT/pctRTffjwF/yZXSsxQ5jdvIvOk8TnqzUqk9ancUl0CtpxIXP8tP5W4Gtq3quk9Se4hJVGH6V9dpFpzPg==",
+  "success": true,
+  "projectFilePath": "C:\\prjS\\_xamarinPrjs\\SimpleOverlay\\SimpleOverlay\\SimpleOverlay.iOS\\SimpleOverlay.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\xamarin.forms\\4.4.0.991477\\xamarin.forms.4.4.0.991477.nupkg.sha512"
+  ],
+  "logs": []
+}
